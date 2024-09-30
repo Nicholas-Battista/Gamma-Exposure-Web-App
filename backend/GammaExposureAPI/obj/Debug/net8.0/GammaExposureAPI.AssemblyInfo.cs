@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GammaExposureAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+545df4aa03aafa580c75ad01e5460b319c293ac0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5eb005465eac106349c5d15ad08c3cc7bfd5b0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GammaExposureAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GammaExposureAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
